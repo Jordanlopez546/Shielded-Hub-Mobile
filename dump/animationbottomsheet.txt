@@ -1,0 +1,17 @@
+// ALTERNATIVES IF I NEED TO
+  // const handleShowSheet = () => {
+  //   translateY.value = withTiming(0, {
+  //     duration: 300,
+  //     easing: Easing.inOut(Easing.linear),
+  //   });
+  // };
+
+  // const handleHideSheet = () => {
+  //   translateY.value = withTiming(
+  //     sheetHeight.height,
+  //     { duration: 300, easing: Easing.inOut(Easing.linear) },
+  //     () => {
+  //       runOnJS(onClose)();
+  //     }
+  //   );
+  // };
